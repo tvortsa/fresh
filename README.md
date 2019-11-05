@@ -1,20 +1,20 @@
 # Fresh Landing page
 ![](https://cssninja.io/storage/app/media/external/fresh/fresh-hero-ui8.png)
 
-Fresh is a one page landing page starter built by [Css Ninja Studio](https://cssninja.io) . Fresh is licensed under the MIT license.
+Fresh одностраничный лэндинг стартер построен [Css Ninja Studio](https://cssninja.io) . Fresh лицензируется под лицензией MIT.
 
-You can access the demo [here](https://cssninjastudio.github.io./).
+Вы можете получить доступ к демо [here](https://cssninjastudio.github.io./).
 
-## Details
+## Детали
 
-Fresh is developed with the [Bulma css framework](https://bulma.io)
+Fresh разработан с [Bulma css framework](https://bulma.io)
 
 **Version 2.1**
 
-## Usage
-Fresh is now a Bulma starter fully bundled with **npm** and **gulp**. Bulma has been upgrade to latest version **0.7**.
+## Использование
+Fresh сейчас Bulma starter полностью в комплекте с **npm** и **gulp**. Bulma было обновление до последней версии **0.7**.
 
-* Clone or download the repo
+* Клонировать или скачать репо
 * Run `npm install`
 * Run `gulp build`
 * Run `gulp default`
